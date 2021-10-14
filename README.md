@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ryzen-Hunt
-- 👀 I’m interested in web development, app development, AI & Robotics
-- 🌱 I’m currently learning PYTHON, R, DBMS, HTML & CSS
-- 💞️ I’m looking to collaborate on N/A
+- 👋 Hi, I’m @Ryzen-Hunt (Anikesh Suryavanshi)
+- 👀 Developer, Programmer, Blogger, Freelancer, Affiliator
+- 🌱 Skills : Python, JAVA, Arduino (Embedded C++), R, mySQL
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me?
       You can write me mail on "ryzenhunt@gmail.com" or you can visit my blog "ryzenhunt.blogspot.com". 
 
