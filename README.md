@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryzen-Hunt (Anikesh Suryavanshi)
-- 👀 Developer, Programmer, Blogger, Freelancer, Affiliator
+- 👀 Developer, Programmer, Blogger, Freelancer
 - 🌱 Skills : Python, JAVA, Arduino (Embedded C++), R, mySQL
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me?
